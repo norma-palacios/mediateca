@@ -1,0 +1,58 @@
+# Ignore class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore build directories
+/build/
+/target/
+/out/
+
+# Ignore IDE-specific files
+/.idea/
+/*.iml
+/.vscode/
+/*.suo
+/*.user
+/*.userosscache
+/*.sln.docstates
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Maven and Gradle directories
+/.mvn/
+/.mvn/
+/.gradle/
+/build/
+
+#ignore nbproject/private folder
+/nbproject/private/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore generated files
+*.generated
+
+# Ignore coverage reports
+/coverage/
+/jacoco/
+
+# Ignore other files
+*.log
+*.tmp
+*.bak
+*.swp
