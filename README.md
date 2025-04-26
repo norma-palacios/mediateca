@@ -1,2 +1,0 @@
-# mediateca
-java swing
